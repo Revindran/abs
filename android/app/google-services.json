@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819811174329",
+    "project_id": "absolutions-f309d",
+    "storage_bucket": "absolutions-f309d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819811174329:android:81461575d0820cc6dd1868",
+        "android_client_info": {
+          "package_name": "com.born1developers.absolute_solutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819811174329-ggbrda4crg5838qrftu8krq7d0inbnl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDLU_wWIkDh4yYS5Gk9eO6UkqAzFQ5bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819811174329-ggbrda4crg5838qrftu8krq7d0inbnl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
